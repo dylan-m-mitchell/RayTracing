@@ -25,7 +25,9 @@ This project is a simple ray tracing application that renders a 3D scene using t
    
 2. Open the solution file `RayTracing.sln` in Visual Studio 2022.
 
-3. Build the solution by selecting `Build > Build Solution` from the menu.
+3. Select `Release` and `x64` as your configuration.
+
+4. Build the solution by selecting `Build > Build Solution` from the menu.
 
 ### Running the Application
 
